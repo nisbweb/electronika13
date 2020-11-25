@@ -2,6 +2,8 @@
 This repo contains the solutions to Electronika 13.0, which was conducted on
 22-Nov 2020 as part of NISB's tech fest "Adroit".
 
+[Download the PDF](https://github.com/nisbweb/electronika13/raw/master/electronika13-solutions.pdf)
+
 This PDF was compiled using an awesome program called [pandoc](https://pandoc.org/).
 
 If you want to compile it yourself,
