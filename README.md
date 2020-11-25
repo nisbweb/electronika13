@@ -4,8 +4,11 @@ This repo contains the solutions to Electronika 13.0, which was conducted on
 
 This PDF was compiled using an awesome program called [pandoc](https://pandoc.org/).
 
-If you want to compile it yourself, get pandoc, and the required filters, and
-run this in the root of the repo-
+If you want to compile it yourself,
+* Clone this repo `$ git clone https://github.com/nisbweb/electronika13.git`
+* Get pandoc, and the required filters
+
+Run this in the root of the repo-
 
 ```bash
 $ pandoc --from markdown "electronika13-solutions.md" -o "electronika13-solutions.pdf" \
